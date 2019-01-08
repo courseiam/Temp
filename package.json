@@ -1,0 +1,14 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "Log temp of my room using node and a raspberry pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan",
+  "license": "ISC",
+  "dependencies": {
+    "node-dht-sensor": "0.0.34"
+  }
+}
